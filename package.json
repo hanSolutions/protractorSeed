@@ -1,0 +1,17 @@
+{
+  "name": "protractorSeed",
+  "version": "1.0.0",
+  "description": "Seed Project for Protractor",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "author": "Han Solutions Inc.",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor": "^5.1.1"
+  },
+  "dependencies": {
+    "protractor": "^5.1.1"
+  }
+}
